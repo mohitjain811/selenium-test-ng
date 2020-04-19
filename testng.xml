@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+<reporter-output>
+</reporter-output>
+<suite name="Suite" thread-count="4" parallel="methods">
+<groups>
+</groups>
+    <test name="UnitTesting">
+        <classes>
+            <class name="testngpackage.ParallelTestNGTestScripts" />
+        </classes>
+    </test>
+</suite>
+</testng-results>
